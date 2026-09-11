@@ -1,2 +1,32 @@
-Last updated: 2026-09-12 04:04:59 WIB
-Last updated: 2026-09-12 04:45:42 WIB
+# app-service-hello-world
+
+Simple Hello World Node.js sample for Azure App Service
+
+## 📋 Overview
+
+This repository contains **22 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-12 05:01:33 WIB*
